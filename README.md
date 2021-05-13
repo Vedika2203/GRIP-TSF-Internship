@@ -1,5 +1,5 @@
 # GRIP-TSF-Internship
-Graduate Rotation Internship Program - internship proided by The Spark Foundation 
+Graduate Rotation Internship Program - internship provided by The Spark Foundation 
 
 Data Science/Business Analytics Internship
 
