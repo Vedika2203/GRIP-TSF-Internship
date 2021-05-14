@@ -34,7 +34,7 @@ What all security issues and insights you can derive by EDA?
 Dataset: https://bit.ly/2TK5Xn5
 
 
-Exploratory Data Analysis - Sports
+TASK 5 - Exploratory Data Analysis - Sports
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 Suggest teams or players a company should endorse for its products.
